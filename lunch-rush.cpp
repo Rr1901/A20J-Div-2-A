@@ -1,6 +1,9 @@
 /******************************************************************************
 
-hey user this code is edited by sahil dabhi and first you think about solution yourself own and then see the code because otherwise it is not beneficial for you . 
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 #include <bits/stdc++.h>
